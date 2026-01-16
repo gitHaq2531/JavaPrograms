@@ -12,5 +12,6 @@ System.out.println("newchng");
 	System.out.println("whole day updates");
 	System.out.println("fridayUpdate");
 	System.out.println("new TL updates");
+	System.out.println("fetch test");
 }
 }
